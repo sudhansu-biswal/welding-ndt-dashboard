@@ -78,4 +78,4 @@ Power BI Desktop · Power Query (M) · DAX · Excel 365
 
 *I spent 12 years as a QA/QC engineer on refinery, steel plant and fabrication projects — IOCL Paradip, Jindal Steel Angul, Tata Steel HSM, L&T Vizag. ASNT Level II in RT, UT, MT and PT. I build the reports I used to need on site.*
 
-**More work:**  **Contact:** skbiswal5244@gmail.com
+**Contact:** skbiswal5244@gmail.com
